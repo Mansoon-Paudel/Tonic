@@ -1,5 +1,5 @@
-title: tonic-starter
-description: ""
+title: About Hack Club
+description: "Hack Club is a global network of teenagers interested to learn coding. The club helps teenagers on coding, designing, hardware, and more."
 encoding: utf-8
 
 exclude: ["README.md", "LICENSE", "*.gem", "*.gemspec", "Gemfile.lock"]
